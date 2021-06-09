@@ -45,3 +45,5 @@ Run the app with :
 This result for train model
 
 ![gambar](https://user-images.githubusercontent.com/49988430/121384413-71f0e700-c972-11eb-8c52-86a2e46448bc.png)
+
+This result for deploy the model in to website
