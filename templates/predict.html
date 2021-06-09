@@ -1,0 +1,23 @@
+{%extends "base.html"%}
+
+{%block content%}
+
+
+              				
+			<center>
+				<h1 class="font-italic">
+        </br>
+					This is the result of emotional detection
+          from the picture that you input :
+        </br>
+				</h1>
+				
+				<img src="{{url_for('static', filename='after.jpg')}}" height=40% width=40% >
+				
+				</body>
+				
+				<h2 class='text-primary'>Your Face is Like <span class='text-primary font-weight-bold'> {{data}} </span> </h2>
+				
+				</center>
+
+{%endblock%}
