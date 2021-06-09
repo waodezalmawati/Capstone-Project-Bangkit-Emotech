@@ -50,6 +50,6 @@ This is the result of deploying the model into the website
 
 ![hasil website](https://user-images.githubusercontent.com/66761941/121391858-66f18300-c981-11eb-9088-18da6dfbe859.png)
 
-This is the prediction result of the model displayed on the website
+This is the result of prediction image 
 
 ![gambar](https://user-images.githubusercontent.com/66761941/121392390-ed0dc980-c981-11eb-8b1d-61afd67f3256.png)
